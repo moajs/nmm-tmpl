@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/moajs/nmm-tmpl#readme",
   "dependencies": {
-    "nmm-link": "^1.0.0"
+    "nmm-link": "^1.0.2"
   }
 }
